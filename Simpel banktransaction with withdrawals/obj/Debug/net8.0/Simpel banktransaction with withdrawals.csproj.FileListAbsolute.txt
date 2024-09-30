@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\bin\Debug\net8.0\Simpel banktransaction with withdrawals.exe
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\bin\Debug\net8.0\Simpel banktransaction with withdrawals.deps.json
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\bin\Debug\net8.0\Simpel banktransaction with withdrawals.runtimeconfig.json
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\bin\Debug\net8.0\Simpel banktransaction with withdrawals.dll
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\bin\Debug\net8.0\Simpel banktransaction with withdrawals.pdb
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.AssemblyInfo.cs
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.dll
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\refint\Simpel banktransaction with withdrawals.dll
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.pdb
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\Simpel banktransaction with withdrawals.genruntimeconfig.cache
+D:\Programmering\Programmering\Simpel banktransaction with withdrawals\obj\Debug\net8.0\ref\Simpel banktransaction with withdrawals.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Simpel banktransaction with withdrawals/1.0.0": {
+        "runtime": {
+          "Simpel banktransaction with withdrawals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simpel banktransaction with withdrawals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
